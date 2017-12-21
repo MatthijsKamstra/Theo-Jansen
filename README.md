@@ -14,5 +14,4 @@ https://en.wikipedia.org/wiki/Theo_Jansen
 ## Video
 
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U02qqB-2nbs" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+[![Adam Savage Meets Theo Jansen's Strandbeest!](https://img.youtube.com/vi/U02qqB-2nbs/0.jpg)](https://www.youtube.com/watch?v=U02qqB-2nbs)
